@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diplom/static/css/main.cd5d95a0.css",
+    "main.js": "/diplom/static/js/main.a1c2aa28.js",
+    "index.html": "/diplom/index.html",
+    "main.cd5d95a0.css.map": "/diplom/static/css/main.cd5d95a0.css.map",
+    "main.a1c2aa28.js.map": "/diplom/static/js/main.a1c2aa28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.a1c2aa28.js"
+  ]
+}
